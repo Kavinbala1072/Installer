@@ -1,0 +1,6 @@
+ServerInstance=DESKTOP-O4CN1F7\KGM12
+DatabaseName=Stock
+user=sa
+password=kgmsql
+LogoPanel=True
+BackupPathtxt=D:\Backup\
